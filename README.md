@@ -3,6 +3,10 @@
 This project demonstrates how to build and deploy a serverless website using AWS Lambda, API Gateway, and Amazon S3.
 It shows how backend logic can be executed without managing servers while S3 hosts the static frontend efficiently.
 
+## Objective
+
+The objective of this lab is to build and deploy a serverless website using AWS Lambda, API Gateway, and Amazon S3.
+This lab aims to demonstrate how frontend applications can interact with backend services without managing servers, using AWS serverless technologies.
 
 ## Prerequisites
 
@@ -184,3 +188,8 @@ It shows how backend logic can be executed without managing servers while S3 hos
 <img src="images/28.png" width="500">
 </p>
 <br>
+
+## Conclusion
+
+In this lab, we successfully built and deployed a serverless website using AWS Lambda, API Gateway, and Amazon S3.
+By testing the application, we verified that user requests from the frontend were processed by the Lambda function through API Gateway, demonstrating a complete serverless web architecture without managing servers.
